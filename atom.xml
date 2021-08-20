@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LumineSight Blog</title>
+  
+  <subtitle>LumineSight Blog</subtitle>
+  <link href="https://blog.luminesight.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.luminesight.com/"/>
+  <updated>2021-08-20T07:12:08.259Z</updated>
+  <id>https://blog.luminesight.com/</id>
+  
+  <author>
+    <name>Xiaozhi_z</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MineCraft开服教程</title>
+    <link href="https://blog.luminesight.com/2021/08/20/MineCraft%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/"/>
+    <id>https://blog.luminesight.com/2021/08/20/MineCraft%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/</id>
+    <published>2021-08-20T07:12:08.000Z</published>
+    <updated>2021-08-20T07:12:08.259Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
