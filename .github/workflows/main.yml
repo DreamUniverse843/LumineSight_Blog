@@ -31,7 +31,7 @@ jobs:
       - name: Depoly Blog
         env:
           DEPOLY_BLOG: ${{secrets.DEPOLY_BLOG}}
-        run:  |
+        run: |
           git config --gaobal user.name "xiaozhi-z"
           git config --gaobal user.email "3476768863@qq.com"
           npm install
