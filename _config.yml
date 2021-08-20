@@ -134,5 +134,5 @@ feed:
 
 deploy:
   type: git
-  repo: https://github.com/Xiaozhi-z/LumineSight_Blog.git
+  repo: git@github.com:Xiaozhi-z/LumineSight_Blog.git
   branch: gh-pages
